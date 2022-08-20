@@ -1,2 +1,3 @@
-# elzero101js
-elzero chalings
+# elzero 101 js
+elzero chalings 
+to learn js
